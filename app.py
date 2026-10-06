@@ -3,7 +3,7 @@ import requests
 
 API_URL = "https://trust-station-iraq.onrender.com"
 
-st.set_page_config(page_title="منصة محطة الثقة", page_icon="🛡️", layout="centered")
+st.set_page_config(page_title="Trust Station Iraq - محطة الثقة", page_icon="🛡️", layout="centered")
 
 st.title("🛡️ منصة محطة الثقة (Trust Station)")
 st.write("نظام حماية المتاجر من العملاء غير الملتزمين")
