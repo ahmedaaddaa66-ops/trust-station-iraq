@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
-
-API_URL = "http://127.0.0.1:8000"
+																																		API_URL = "https://trust-station-iraq.onrender.com"
 
 st.set_page_config(page_title="منصة محطة الثقة", page_icon="🛡️", layout="centered")
 
